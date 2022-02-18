@@ -1,5 +1,6 @@
 # Valorant-Spoofer
 CMD ADMIN
+
 AMIDEWIN.EXE /SU /BS  (status -done)
 
 AMIDEWIN.EXE /SU auto
